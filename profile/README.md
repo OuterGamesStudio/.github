@@ -12,4 +12,4 @@ Nous développons des jeux.
 
 ## Projects
 
-- Tabletop (Temporary name - Nom provisoire) - Unreal Engine 5 - WIP
+- Tabletop (Temporary name - Nom provisoire) - Unreal Engine 5 C++ - WIP
