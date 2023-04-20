@@ -14,6 +14,10 @@ We develop games.
 Nous sommes un petit regroupement d'étudiant français en développement informatique.
 Nous développons des jeux.
 
+---
+
+Logo made by [Djangle Studio](https://www.etsy.com/shop/djanglestudio/?etsrc=sdt)
+
 ## Projects
 
 - Tabletop (Temporary name - Nom provisoire) - Unreal Engine 5 C++ - WIP
