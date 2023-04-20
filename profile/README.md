@@ -1,4 +1,5 @@
-# OuterGames
+![OuterGames Banner](https://github.com/OuterGamesStudio/.github/blob/main/profile/OuterGamesBannerBig.png)
+
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
